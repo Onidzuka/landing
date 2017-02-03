@@ -241,9 +241,8 @@ li {list-style: none}
     display: none;
 }
 .ik_select.ik_select_autowidth {
-    width: 100% !important; /*pereopredenie shiriny*/
+    width: 100%
 }
-
 .ik_select_dropdown {
     width: 150px !important;
     border: 1px solid #a9a9a9;
